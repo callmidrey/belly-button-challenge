@@ -9,7 +9,8 @@ This repository contains JavaScript code for creating interactive web visualizat
 
 # Usage
 To use the interactive web visualizations. The dashboard created were interesting. s sneak peak is inserted below:
-
+![Alt text](<Screenshot 2024-01-25 172705.png>)
+![Alt text](<Screenshot 2024-01-25 172729.png>)
 
 # Features
 1. Dropdown Selector: Users can select a sample ID from the dropdown menu to view corresponding bacterial culture data and demographic information.
